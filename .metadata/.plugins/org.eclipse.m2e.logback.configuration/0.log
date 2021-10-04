@@ -301,3 +301,88 @@ Caused by: org.apache.lucene.store.AlreadyClosedException: Underlying file chang
 2021-09-26 14:01:01,630 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-09-26 14:01:01,630 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-09-26 14:01:01,630 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/chill/OneDrive - Grand Canyon University/CST 339/Week1/Activity1/src/test/resources
+2021-10-03 15:38:51,967 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2021-10-03 15:42:19,961 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gcu:Activity2:0.0.1-SNAPSHOT @ /Users/chill/OneDrive - Grand Canyon University/CST 339/Activity2/pom.xml.
+2021-10-03 15:42:21,376 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Activity2/src/main/java
+2021-10-03 15:42:21,377 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Activity2/src/main/resources
+2021-10-03 15:42:21,382 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Activity2/src/main/resources
+2021-10-03 15:42:21,391 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Activity2/src/test/java
+2021-10-03 15:42:21,828 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2021-10-03 15:42:21,832 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-10-03 15:42:22,434 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gcu:Activity2:0.0.1-SNAPSHOT @ /Users/chill/OneDrive - Grand Canyon University/CST 339/Activity2/pom.xml.
+2021-10-03 15:42:22,974 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Activity2/src/main/java
+2021-10-03 15:42:22,974 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Activity2/src/main/resources
+2021-10-03 15:42:22,976 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Activity2/src/main/resources
+2021-10-03 15:42:22,982 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Activity2/src/test/java
+2021-10-03 15:42:23,298 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-10-03 15:42:25,025 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-03 15:42:25,025 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-03 15:42:25,033 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-03 15:42:25,059 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-03 15:42:25,063 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-03 15:42:25,063 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-03 15:42:25,063 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/chill/OneDrive - Grand Canyon University/CST 339/Activity2/src/test/resources
+2021-10-03 15:57:14,743 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gcu:Activity2:0.0.1-SNAPSHOT @ /Users/chill/OneDrive - Grand Canyon University/CST 339/Week 2/Activity2/pom.xml.
+2021-10-03 15:57:15,620 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Activity2/src/main/java
+2021-10-03 15:57:15,621 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Activity2/src/main/resources
+2021-10-03 15:57:15,627 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Activity2/src/main/resources
+2021-10-03 15:57:15,635 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Activity2/src/test/java
+2021-10-03 15:57:16,002 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2021-10-03 15:57:16,004 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-10-03 15:57:16,435 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gcu:Activity2:0.0.1-SNAPSHOT @ /Users/chill/OneDrive - Grand Canyon University/CST 339/Week 2/Activity2/pom.xml.
+2021-10-03 15:57:16,878 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Activity2/src/main/java
+2021-10-03 15:57:16,878 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Activity2/src/main/resources
+2021-10-03 15:57:16,882 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Activity2/src/main/resources
+2021-10-03 15:57:16,888 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Activity2/src/test/java
+2021-10-03 15:57:17,079 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-10-03 15:57:17,555 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-03 15:57:17,556 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-03 15:57:17,557 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-03 15:57:17,571 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-03 15:57:17,575 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-03 15:57:17,575 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-03 15:57:17,575 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/chill/OneDrive - Grand Canyon University/CST 339/Week 2/Activity2/src/test/resources
+2021-10-03 16:00:12,122 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-03 16:00:12,122 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-03 16:00:12,126 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-03 16:00:12,144 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-03 16:00:12,147 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-03 16:00:12,147 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-03 16:00:12,147 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/chill/OneDrive - Grand Canyon University/CST 339/Week 2/Activity2/src/test/resources
+2021-10-03 16:00:39,778 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-03 16:00:39,779 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-03 16:00:39,780 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-03 16:00:39,789 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-03 16:00:39,793 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-03 16:00:39,794 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-03 16:00:39,794 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/chill/OneDrive - Grand Canyon University/CST 339/Week 2/Activity2/src/test/resources
+2021-10-03 16:00:51,717 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.6; built: 2021-06-29T15:28:56.259Z; git: 37e7731b4b142a882d73974ff3bec78d621bd674; jvm 16.0.2+7-67
+2021-10-03 16:00:51,780 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2021-10-03 16:00:51,851 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@2d58931f{/help,null,AVAILABLE}
+2021-10-03 16:00:51,880 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@6e4f4046{HTTP/1.1, (http/1.1)}{127.0.0.1:50541}
+2021-10-03 16:00:51,892 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@15f40cf{STARTING}[10.0.6,sto=0] @2053570ms
+2021-10-03 16:04:01,509 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-03 16:04:01,509 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-03 16:04:01,510 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-03 16:04:01,515 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-03 16:04:01,519 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-03 16:04:01,520 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-03 16:04:01,520 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/chill/OneDrive - Grand Canyon University/CST 339/Week 2/Activity2/src/test/resources
+2021-10-03 16:04:11,940 [Worker-28: Launching Build HelloWorld] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/chill/OneDrive - Grand Canyon University/CST 339/Week1/Activity1
+2021-10-03 16:04:11,942 [Worker-28: Launching Build HelloWorld] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package -Dstyle.color=always
+2021-10-03 16:10:24,291 [Worker-31: Launching Build HelloWorld] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/chill/OneDrive - Grand Canyon University/CST 339/Week1/Activity1
+2021-10-03 16:10:24,291 [Worker-31: Launching Build HelloWorld] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package -Dstyle.color=always
+2021-10-03 16:15:15,780 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-03 16:15:15,780 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-03 16:15:15,781 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-03 16:15:15,785 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-03 16:15:15,788 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-03 16:15:15,788 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-03 16:15:15,788 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/chill/OneDrive - Grand Canyon University/CST 339/Week 2/Activity2/src/test/resources
+2021-10-03 16:15:23,360 [Worker-34: Launching Build HelloWorld] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/chill/OneDrive - Grand Canyon University/CST 339/Week1/Activity1
+2021-10-03 16:15:23,360 [Worker-34: Launching Build HelloWorld] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package -Dstyle.color=always
+2021-10-03 16:16:58,444 [Worker-37: Launching Build HelloWorld] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/chill/OneDrive - Grand Canyon University/CST 339/Week1/Activity1
+2021-10-03 16:16:58,445 [Worker-37: Launching Build HelloWorld] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package -Dstyle.color=always
+2021-10-03 16:17:44,641 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@15f40cf{STOPPING}[10.0.6,sto=0]
+2021-10-03 16:17:44,654 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@6e4f4046{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2021-10-03 16:17:44,662 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@2d58931f{/help,null,STOPPED}
