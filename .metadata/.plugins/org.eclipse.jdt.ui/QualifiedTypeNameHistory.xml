@@ -7,4 +7,16 @@
     <fullyQualifiedTypeName name="java.util.concurrent.Flow.Publisher"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="com.gcu.controller.HelloWorldController"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.gcu.model.OrderModel"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Primary"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="com.gcu.business.OrdersBusinessService"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.gcu.business.OrdersBusinessInterface"/>
+    <fullyQualifiedTypeName name="com.gcu.business.AnotherOrdersBusinessService"/>
+    <fullyQualifiedTypeName name="com.gcu.business.SecurityBusinessService"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="javax.annotation.PostConstruct"/>
+    <fullyQualifiedTypeName name="javax.annotation.PreDestroy"/>
 </qualifiedTypeNameHistroy>
